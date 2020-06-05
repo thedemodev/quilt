@@ -38,12 +38,11 @@ export const fallbackErrorMarkup = `
                       <p
                         class="Polaris-DisplayText Polaris-DisplayText--sizeMedium"
                       >
-                        Server error
+                      This page is not available right now
                       </p>
                       <div class="Polaris-EmptyState__Content">
                         <p>
-                          We received an error from the server. Please check
-                          again later.
+                          Please check back later.
                         </p>
                       </div>
                     </div>
